@@ -177,7 +177,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #59886b;
+  color: #6495ED;
   text-decoration: underline; }
   a:hover {
     color: #476d56; }
@@ -3333,7 +3333,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #59886b; }
+  background-color: #6495ED; }
 
 .nav-fill > .nav-link,
 .nav-fill .nav-item {
@@ -4145,7 +4145,7 @@ textarea.form-control-lg {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #59886b;
+  background-color: #6495ED;
   -webkit-transition: width 0.6s ease;
   -o-transition: width 0.6s ease;
   transition: width 0.6s ease; }
@@ -6287,7 +6287,7 @@ textarea.form-control-lg {
   text-align: center !important; }
 
 .text-primary {
-  color: #59886b !important; }
+  color: #0000FF !important; }
 
 .text-secondary {
   color: #ffc85c !important; }
@@ -9094,7 +9094,7 @@ a, .btn {
     box-shadow: none; }
   .btn.btn-primary {
     color: #fff;
-    background-color: #59886b; }
+    background-color: #6495ED; }
     .btn.btn-primary:hover {
       background-color: #4f795f; }
   .btn.btn-outline-white {
@@ -9236,7 +9236,7 @@ textarea {
   .section .heading {
     font-size: 50px;
     font-weight: bold;
-    color: #59886b; }
+    color: #6495ED; }
     @media (max-width: 767.98px) {
       .section .heading {
         font-size: 40px; } }
@@ -9678,7 +9678,7 @@ textarea {
     .flip .flip-content-wrap h3, .flip .flip-content-wrap .h3 {
       font-size: 20px;
       font-weight: bold;
-      color: #59886b; }
+      color: #6495ED; }
 
 .front,
 .back {
@@ -9737,7 +9737,7 @@ blockquote {
   border-left: 10px #ffc85c solid;
   padding-left: 30px;
   font-size: 18px;
-  color: #59886b;
+  color: #6495ED;
   font-style: italic; }
 
 .overlap-imgs {
@@ -9771,7 +9771,7 @@ blockquote {
   .flip-section:before {
     position: absolute;
     content: "";
-    background: rgba(89, 136, 107, 0.8);
+    background: rgba(100, 149, 237);
     top: 0px;
     left: 0;
     right: 0;
@@ -9832,7 +9832,7 @@ blockquote {
   .counter .number {
     font-size: 40px;
     font-weight: bold;
-    color: #59886b; }
+    color: #6495ED; }
   .counter [class^="flaticon-"] {
     font-size: 50px;
     color: #59886b;
@@ -9922,7 +9922,7 @@ blockquote {
       width: 40px;
       height: 40px;
       position: relative;
-      background: #59886b;
+      background: #6495ED;
       border-radius: 50%;
       color: rgba(255, 255, 255, 0.5); }
       .site-footer .social li a:before {
